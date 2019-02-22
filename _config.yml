@@ -16,8 +16,8 @@ administrator:
   email: TADY_DEJTE_VLASTNI_MAIL@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
 
 organization:
-  name: Jmeno skupiny používající web - př Pirástá strana
-  shortName: Název skupiny
+  name: Pirástá strana - MS Most
+  shortName: Piráti MS Most
   email: example@pirati.cz
   phone: +420 770 113 642
   address: |
