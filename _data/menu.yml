@@ -16,7 +16,6 @@ main:
   - link: /lide/
     name: O nás
     match: lide
-    submenu:
   - link: /kontakt/
     name: Kontakt
     match: kontakt
@@ -32,8 +31,6 @@ bottom:
     links:
       - link: /lide/
         name: Lidé
-      - link: /komunalni-volby/
-        name: Volby
       - link: /aktuality/
         name: Aktuality
   - class: small-12 medium-4
