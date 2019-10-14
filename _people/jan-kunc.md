@@ -5,9 +5,9 @@ titles:
   before:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- ulk
+- ulk, pms
 img: people/jan-kunc.jpg   # 165 x 220
-description: Člen MS Most       	# kratký popis, max 160 znaků
+description: Místopředseda MS Most       	# kratký popis, max 160 znaků
 mail:
 - jan.kunc@pirati.cz
 mob:	
