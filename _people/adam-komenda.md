@@ -9,7 +9,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - verejnost
 - zastup
 img: people/adam-komenda.jpg   # 165 x 220
-description: Asistent Mikuláše Peksy          	# kratký popis, max 160 znaků
+description: Zastupitel města Most         	# kratký popis, max 160 znaků
 mail:
 - adam.komenda@pirati.cz
 mob:	
