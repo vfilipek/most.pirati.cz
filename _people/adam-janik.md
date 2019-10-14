@@ -5,7 +5,9 @@ titles:
   before:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- ulk, pms
+- ulk
+- pms
+ordpms: 3
 img: people/adam-janik.jpg   # 165 x 220
 description: Místopředseda MS Most       	# kratký popis, max 160 znaků
 mail:
