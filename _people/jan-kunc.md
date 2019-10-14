@@ -5,7 +5,9 @@ titles:
   before:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- ulk, pms
+- ulk
+- pms
+ordpms: 4
 img: people/jan-kunc.jpg   # 165 x 220
 description: Místopředseda MS Most       	# kratký popis, max 160 znaků
 mail:
