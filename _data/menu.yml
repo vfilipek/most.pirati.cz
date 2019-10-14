@@ -16,6 +16,16 @@ main:
   - link: /lide/
     name: O nás
     match: lide
+  - link: /mistni-sdruzeni/
+    name: Místní sdružení
+    match: mistni-sdruzeni
+  - link: /komunalni-volby/
+    name: Komunální volby
+    match: komunalni-volby
+    #submenu:
+    #  - link: /komunalni-volby/mapa-zameru/
+    #    name: Mapa záměrů
+    #   match: mapa-zameru
   - link: /kontakt/
     name: Kontakt
     match: kontakt
@@ -31,6 +41,8 @@ bottom:
     links:
       - link: /lide/
         name: Lidé
+      - link: /komunalni-volby/
+        name: Volby
       - link: /aktuality/
         name: Aktuality
   - class: small-12 medium-4
@@ -40,5 +52,5 @@ bottom:
         name: Transparentní účet
       - link: https://smlouvy.pirati.cz
         name: Registr smluv
-      - link: https://piroplaceni.pirati.cz/
+      - link: https://wiki.pirati.cz/fo/otevrene_ucetnictvi
         name: Otevřené účetnictví
