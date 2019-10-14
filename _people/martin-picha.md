@@ -6,6 +6,8 @@ titles:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
+- pms
+ordpms: 2
 img: people/martin-picha.jpg   # 165 x 220
 description: místopředseda MS Most       	# kratký popis, max 160 znaků
 mail:
