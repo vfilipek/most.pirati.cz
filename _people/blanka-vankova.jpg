@@ -1,0 +1,29 @@
+---
+uid: blanka.vankova
+name: Blanka Vaňková  	# běžně používáné jméno
+# fullname: Ing. Jméno Příjmení PhD.  # jméno s tituly etc.
+category:                 # kategorie: pms, clenove, priznivci
+- ulk
+
+img: people/blanka-vankova.jpg       # 165 x 220, v assets/img
+description:  # kratký popis, max 160 znaků
+mob:    # telefon je dobre mit u cloveka uvedeneho jako lokalni kontakt v links.yaml
+mail:
+- blanka.vankova@pirati.cz
+profiles:
+# pokud nema, staci smazat tuto radku
+#  googleplus: https://plus.google.com/+uzivatel.na.googleplus
+#  twitter: https://twitter.com/uzivatel.na.twitteru
+  #linkedin, atd, dalsi promenne viz _layouts/member.html
+
+---
+
+
+Narozena v Československu 12.10.1974
+V Pirátské straně od roku 2019, zájem o vstup podzim 2018
+MS Most, bydliště Most
+SŠ vzdělání
+Zaměstnavatel: Oblastní charita Most, NZDM Sovička
+Aktivity: - zakládající členka občanské iniciativy Zachraňme mosteckou knihovnu
+- od 14.2. 2020 členka komise prorodinných aktivit a sociálních služeb Rady města Mostu
+- podporuji iniciativu Jsme fér
