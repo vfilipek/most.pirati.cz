@@ -20,4 +20,4 @@ profiles:
   flickr: 
 ---
 
-Jmenuji se Adam Janík a je mi 22 let, většinu života jsem strávil v Mostě kde jsem absolvoval gymnázium, následně jsem pokračoval studiem na vysoké škole, kde jsem získal bakalářský titul v oboru Kriminalistické a právní studium. Za svůj největší cíl považuji udělat z Litvínova lepší místo k životu, zejména bych se rád zasadil o revitalizaci sídliště v Janově, které je mým domovem už 8 let.
+Jmenuji se Adam Janík a je mi 22 let, většinu života jsem strávil v Mostě, kde jsem absolvoval gymnázium, následně jsem pokračoval studiem na vysoké škole, kde jsem získal bakalářský titul v oboru Kriminalistické a právní studium. Za svůj největší cíl považuji udělat z Litvínova lepší místo k životu, zejména bych se rád zasadil o revitalizaci sídliště v Janově, které je mým domovem už 8 let.
