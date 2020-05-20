@@ -2,16 +2,14 @@
 uid: adam.komenda
 name:     Adam Komenda  	# běžně používáné jméno
 titles:
-  before: Bc.
+  before:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
-- zastup
 - pms
-ordpms:
-- 1
+ordpms: 1
 img: people/adam-komenda.jpg   # 165 x 220
-description: Zastupitel města Most, Předseda místního sdružení   	# kratký popis, max 160 znaků
+description: Předseda MS Most   	# kratký popis, max 160 znaků
 mail:
 - adam.komenda@pirati.cz
 mob:	
