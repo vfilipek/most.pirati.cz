@@ -8,8 +8,11 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - verejnost
 - zastup
+- pms
+ordpms:
+- 1
 img: people/adam-komenda.jpg   # 165 x 220
-description: Zastupitel města Most         	# kratký popis, max 160 znaků
+description: Zastupitel města Most, Předseda místního sdružení         	# kratký popis, max 160 znaků
 mail:
 - adam.komenda@pirati.cz
 mob:	
