@@ -6,6 +6,7 @@ titles:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
+- zastup
 - pms
 ordpms: 1
 img: people/adam-komenda.jpg   # 165 x 220
