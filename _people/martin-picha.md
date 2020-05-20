@@ -20,6 +20,6 @@ profiles:
   flickr: 
 ---
 
-Vystudoval chemii na střední průmyslové škole. Působím jako pracovník v sociálních službách v Domově pro seniory. Jsem členem odborů a bojuje za práva zaměstnanců v sociálních službách. Se svou ženou vychovává 5 letou dceru.
+Vystudoval jsem chemii na střední průmyslové škole. Působím jako pracovník v sociálních službách v Domově pro seniory. Jsem členem odborů a bojuje za práva zaměstnanců v sociálních službách. Se svou ženou vychovává 5 letou dceru.
 
 “Sociální služby jsou pro naše město velice důležitou součástí. Budu bojovat za rozšíření a zkvalitnění současné sítě sociálních služeb na Mostecku. Přál bych si zkvalitnění podmínek pro klienty i pro zaměstnance sociálních služeb, na které se až příliš často zapomíná.
