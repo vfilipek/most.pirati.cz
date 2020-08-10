@@ -4,7 +4,8 @@ name: Blanka Vaňková  	# běžně používáné jméno
 # fullname: Ing. Jméno Příjmení PhD.  # jméno s tituly etc.
 category:                 # kategorie: pms, clenove, priznivci
 - ulk
-
+- pms
+ordpms: 2
 img: people/blanka-vankova.jpg       # 165 x 220, v assets/img
 description:  # kratký popis, max 160 znaků
 mob:    # telefon je dobre mit u cloveka uvedeneho jako lokalni kontakt v links.yaml
