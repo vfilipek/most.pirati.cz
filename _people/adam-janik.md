@@ -7,7 +7,7 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 img: people/adam-janik.jpg   # 165 x 220
-description: Místopředseda MS Most       	# kratký popis, max 160 znaků
+description:    	# kratký popis, max 160 znaků
 mail:
 - adam.janik@pirati.cz
 mob:	
