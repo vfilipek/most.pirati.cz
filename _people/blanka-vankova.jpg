@@ -7,7 +7,7 @@ category:                 # kategorie: pms, clenove, priznivci
 - pms
 ordpms: 2
 img: people/blanka-vankova.jpg       # 165 x 220, v assets/img
-description:  # kratký popis, max 160 znaků
+description: 1. místopředsedkyně # kratký popis, max 160 znaků
 mob:    # telefon je dobre mit u cloveka uvedeneho jako lokalni kontakt v links.yaml
 mail:
 - blanka.vankova@pirati.cz
